@@ -1,0 +1,11 @@
+{
+  "name": "stock-trading-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A full-stack stock trading platform",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "start:dashboard": "cd dashboard && npm start"
+  }
+}
